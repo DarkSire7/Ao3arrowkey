@@ -1,0 +1,32 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "AO3 arrow navigation",
+    "permissions": [],
+    "host_permissions": [
+        "https://archiveofourown.org/*"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://archiveofourown.org/*"
+            ],
+            "js": [
+                "nav.js"
+            ]
+        }
+    ],
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "ao3_navigator@akif.dev"
+        }
+    },
+    "action": {
+        "default_icon": "images/icon.png"
+    },
+    "icons": {
+        "16": "images/icon.png",
+        "48": "images/icon.png",
+        "128": "images/icon.png"
+    }
+}
