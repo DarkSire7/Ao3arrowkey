@@ -9,5 +9,5 @@ Installation guide:
 <hr>
 
 Download link: <br>
-1- File url: https://github.com/DarkSire7/Ao3arrowkey <br>
-2- Paste the file url into https://download-directory.github.io/ <br>
+<a href="https://addons.mozilla.org/en-GB/firefox/addon/ao3-arrow-navigation/">Install on firefox<a/> <br>
+<a href="https://chromewebstore.google.com/detail/ao3-arrow-navigation/pdljkkllhocpnbbbmfjoebflhcdkggmo">Install on Chrome<a/> <br>
